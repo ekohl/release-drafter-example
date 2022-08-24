@@ -13,9 +13,11 @@ version-resolver:
   major:
     labels:
       - 'major'
+      - 'backwards-incompatible'
   minor:
     labels:
       - 'minor'
+      - 'enhancement'
   patch:
     labels:
       - 'patch'

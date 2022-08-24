@@ -3,3 +3,7 @@
 ## Feature 1
 
 This is amazing!
+
+## Feature 2
+
+Also amazing!
